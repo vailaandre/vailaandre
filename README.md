@@ -1,4 +1,4 @@
-# 👋 Oi me chamo @vailaandre
+# 👋 Oi, me chamo @vailaandre
 
 Entusiasta das melhores tecnologias de desenvolvimento web & mobile, e apaixonado por educação e mudança de vida das pessoas através da programação.
 
