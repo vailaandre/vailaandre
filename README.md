@@ -13,4 +13,4 @@ Entusiasta das melhores tecnologias de desenvolvimento web & mobile, e apaixonad
 
 📫 No caso de você querer me alcançar 
 
-[![Linkedin Badge](https://img.shields.io/badge/-André%20Anderson-0073b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-anderson-br/)](https://www.linkedin.com/in/andre-anderson-br/) [![Outlook Badge](https://img.shields.io/badge/-andreanderson.ce01@hotmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:andreanderson.ce01@hotmail.com)](andreanderson.ce01@hotmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-André%20Anderson-0073b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-anderson-br/)](https://www.linkedin.com/in/andre-anderson-br/) [![Outlook Badge](https://img.shields.io/badge/-andreanderson.ce01@hotmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:andreanderson.ce01@hotmail.com)](mailto:andreanderson.ce01@hotmail.com)
